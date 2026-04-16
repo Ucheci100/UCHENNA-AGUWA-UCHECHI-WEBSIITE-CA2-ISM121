@@ -10,7 +10,8 @@ body {
     color: #fff;
 }
 
- .navbar {
+
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -42,8 +43,6 @@ body {
     height: 75px;
     width: auto;
 }
-
-
 /* Header */
 header {
     text-align: center;
